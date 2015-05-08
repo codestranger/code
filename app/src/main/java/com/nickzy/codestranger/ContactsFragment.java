@@ -14,10 +14,6 @@ import android.widget.FrameLayout.LayoutParams;
 
 /**
  * 通讯录Fragment的界面
- * 
- * http://blog.csdn.net/guolin_blog/article/details/26365683
- * 
- * @author guolin
  */
 public class ContactsFragment extends Fragment {
 	@Override
